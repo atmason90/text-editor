@@ -19,6 +19,8 @@ The purpose of this project was to build a single-page text editor application t
 
 ## Screenshot
 
+![Screen Shot 2022-05-25 at 9 13 44 PM](https://user-images.githubusercontent.com/99947655/170415655-04e1212d-d1d4-4145-ba93-cc7bebc7e5b3.png)
+
 ## Code Examples
 
 This example displays the use of the `idb` package methods to store data on the IndexedDB database.
