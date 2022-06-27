@@ -4,6 +4,10 @@
 [Deployed Application](https://editmytext.herokuapp.com/)  
 [GitHub Repository](https://github.com/atmason90/text-editor)
 
+## Usage Instructions
+- Navigate to the deployed application: https://editmytext.herokuapp.com/  
+- Use the text editor in the browser or click the install button to download the application
+
 ## Table of Contents
 
 - [Description](#description)
